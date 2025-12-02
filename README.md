@@ -1,4 +1,4 @@
-# Hey there! I'm Jacob 👋
+## Hey there! I'm Jacob 👋
 
 Welcome to my GitHub! I’m super interested in all things bioinformatics and genomics, and anything that helps us better understand how life works at the molecular level.
 
